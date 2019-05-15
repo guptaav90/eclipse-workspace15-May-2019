@@ -12,7 +12,7 @@ public class CheckedException {
 
 
 		try {
-		Thread.sleep(1000);
+		Thread.sleep(2000);
 		System.out.println("***");
 	     }
 	
